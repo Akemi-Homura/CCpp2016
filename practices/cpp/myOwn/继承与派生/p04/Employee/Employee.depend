@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1461570535 source:d:\ccpp2016\practices\cpp\myown\继承与派生\p04\employee\src\employee.cpp
+	"Employee.h"
+
+1461571013 d:\ccpp2016\practices\cpp\myown\继承与派生\p04\employee\include\employee.h
+	<string>
+	<iostream>
+
+1461569898 source:d:\ccpp2016\practices\cpp\myown\继承与派生\p04\employee\src\manager.cpp
+	"Manager.h"
+
+1461569898 d:\ccpp2016\practices\cpp\myown\继承与派生\p04\employee\include\manager.h
+	"Employee.h"
+
+1461571325 source:d:\ccpp2016\practices\cpp\myown\继承与派生\p04\employee\src\salesman.cpp
+	"Salesman.h"
+	<iostream>
+
+1461571494 d:\ccpp2016\practices\cpp\myown\继承与派生\p04\employee\include\salesman.h
+	"Employee.h"
+
+1461569898 source:d:\ccpp2016\practices\cpp\myown\继承与派生\p04\employee\src\salesmanager.cpp
+	"Salesmanager.h"
+
+1461569898 d:\ccpp2016\practices\cpp\myown\继承与派生\p04\employee\include\salesmanager.h
+	"Employee.h"
+
+1461569898 source:d:\ccpp2016\practices\cpp\myown\继承与派生\p04\employee\src\technician.cpp
+	"Technician.h"
+
+1461569898 d:\ccpp2016\practices\cpp\myown\继承与派生\p04\employee\include\technician.h
+	"Employee.h"
+
